@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lim"
+  given-names: "Timothy"
+title: "FYP Q Control software"
+date-released: 2024-04-05
+url: "https://github.com/timleem/timothy-Qcontrol-SAC-env"
