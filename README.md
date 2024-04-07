@@ -45,3 +45,4 @@ rl_zoo3:
         learning_starts: 10000
         policy_kwargs: "dict(activation_fn=th.nn.Tanh,net_arch=dict(pi=[256,256,256], qf=[64, 64]))"}
 3. For more information on training and hyperparameter tuning with rl_zoo3, refer to https://rl-baselines3-zoo.readthedocs.io/en/master/index.html
+4. The custom environment was inspired by arXiv:2112.07453v4.
